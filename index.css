@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+.post-card img {
+  width: 100%;
+  border-radius: 0;
+}
+
+.insta-bar {
+  gap: 10px;
+}
+
+.insta-bar i{
+  font-size: 1.5rem;
+}
+
+#viewTabs .nav-link {
+  color: black;
+  font-size: 1.5rem;
+}
+
+#viewTabs .nav-link.active {
+  color: blue;
+}
+
+#gridView img {
+  width: 100%;
+}
+
+
+
